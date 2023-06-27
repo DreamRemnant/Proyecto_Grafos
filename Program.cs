@@ -10,7 +10,7 @@ namespace Proyecto_Grafos
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hola Mundo");
         }
     }
 }
